@@ -119,6 +119,7 @@ This analyis gives on what specific category the number of terrorist activities 
 
 This analyis gives by using which specific type of weapon, the injuries and fatalities occured. With the help of this analyis, the government can restrict the produxtion, use, supplying of arms to other countries and people.
 
+**Coclusion :**
 
 **With the help of this analysis, one can take precautionary measures, actions against particular cities, countries, Strengthening their armed forces, knowing under whose tenure the terrorism occured most, The reasons for occurence of high terrorism.**
 
