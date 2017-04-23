@@ -1,7 +1,7 @@
 # Final Project
 # Data Analysis on the data of Terrorism using Python
 
-Here I will be analysing the data on Terrorist activities occured in the world. I have collected data recorded regarding terrorist activies that happened in the world from the years of 1970 to 2008. 
+In this project, I explored a dataset containing information about global terrorism acts since 1970, and attempted to make the findings as visual as possible. Most of the analysis is done globally, but one of the scripts focuses on terrorism in specific countries. In order to simplify and make the analysis much more efficient, I chose to discard over 100 attributes, and only retain a few of the key variables such as date, attack type, location, and casualties. It should also be noted that all information from 1993 is missing from this database as a result of human error. 
 
 **Analysis 1** :
 
