@@ -6,10 +6,10 @@ In this project, I explored a dataset containing information about global terror
 **Analysis 1** :
 
 Packages Used:
-Numpy
-Pandas
-Matplotlib
-Seaborn
+Numpy,
+Pandas,
+Matplotlib,
+Seaborn.
 
 Read globalterrorismdb_0616dist.CSV in order to create plot.
 1. The number of attacks occured each year all over the world is calculated. 
