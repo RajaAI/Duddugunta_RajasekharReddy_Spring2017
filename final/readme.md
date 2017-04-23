@@ -2,7 +2,8 @@
 # Data Analysis on the data of Terrorism using Python
 
 Here I will be analysing the data on Terrorist activities occured in the world.
-Analysis 1 :
+
+**Analysis 1** :
 
 Packages Used:
 Numpy
@@ -47,7 +48,7 @@ As we saw in the previous step, bombing/explosions was the highest form of attac
 
 This pie chart clearly helps in knowing how Group 4 [2001-2009] dominates in both killed and wounded.
 
-Analysis 2:
+**Analysis 2**:
 
 1. Finding the most troubled regions in the world that got effected by Terrorists.
 
@@ -74,7 +75,7 @@ We came to know from the above analysis that Iraq from Middle East and India fro
 
 ![ana_2-4](https://cloud.githubusercontent.com/assets/25700604/25310261/987989fa-27ae-11e7-85a3-528fc2c2c480.PNG)
 
-Analysis 3 :
+**Analysis 3** :
 
 Finding the year and the prime minister during those years, where the occurence of terrorism was more. 
 We would be splitting terrorism attacks in India, by time in office of each Indian Prime-minister.
@@ -83,7 +84,7 @@ We would be splitting terrorism attacks in India, by time in office of each Indi
 
 From the above chart I analyzed that in the years of 2008 and 2009 the occurence of terrorist activities was more, during which the prime minister of India was Manmohan singh
 
-Analysis 4 :
+**Analysis 4** :
 
 1. Finding the Total acts of Terrorism and average number of deaths per act.
 
@@ -95,7 +96,7 @@ This analysis provides me the information of Total acts of Terrorism of each yea
 
 This analysis shows that the average number of people killed per attack is more in the region of sub-saharan based on the output.
 
-Analysis 5 :
+**Analysis 5** :
 
 In this, the Analysis was done on Terrorism of USA.
 
